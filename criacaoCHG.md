@@ -1,11 +1,11 @@
-**Documentação de Criação de CHG**
+<h1>Documentação de Criação de CHG</h1>
 
 ## Índice
-- Objetivo(#Objetivo)
-- O que é CHG?(#O que é CHG?)
-- Como criar um CHG?(#Como criar um CHG?)
-- Motivos comuns de reprovação de Mudança(#Motivos comuns de reprovação de Mudança)
-- IA Validator (#IA Validator)
+- Objetivo
+- O que é CHG?
+- Como criar um CHG?
+- Motivos comuns de reprovação de Mudança
+- IA Validator
 
 ## Objetivo
 Essa documentação tem como objetivo informar como funciona o processo de criação de um CHG no VivoNow com o preenchimento adequado dos campos obrigatórios.
@@ -96,13 +96,13 @@ O preenchimento de cada uma dessas tarefas deve estar de acordo com a imagem aba
 <img src="![alt text](salvar.png)">
 
 ## Motivos comuns de reprovação de Mudança
-° **Preenchimento incorreto ou incompleto do campo "Descrição"** 
+- **Preenchimento incorreto ou incompleto do campo "Descrição"** 
 
  A reprovação pode ser ocasionada devivo o preenchimento inadequado do campo "Descrição" presente no formulário de criação da CHG, sendo importante adicionar de forma detalhada as informações sobre a Mudança e do time envolvido nela, conforme exemplo na imagem abaixo.
 
  <img src="c:\Users\thaina.rocco\Pictures\desc.png">
 
-° **Data e hora de execução da Mudança**
+- **Data e hora de execução da Mudança**
  <img src="![alt text](tempoErro.jfif)">
 
  A data de execução das Mudanças deve ser alinhada com o seu time e sem interferir com o calendário de execução de Mudanças a serem efetuadas durante este período, esse calendário pode ser encontrado no **Portal GMUD**, você pode acessar o portal clicando em <a hrelf="https://telefonicacorp.sharepoint.com/sites/Colabora_Brasil/PortalGMUD/SitePages/Portal-GMUD.aspx?xsdata=MDV8MDJ8fDYyMmFmOGFjMjUwYTRlNjAxZDRhMDhkZGU5ODZjYjNhfDZlNjhlNmE2NGQ2YjQ1MDU5NjIyZmRkYWY4Y2ZjNzU1fDB8MHw2Mzg5MjM0ODczMDA5NTEzNzB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVFZSRmQxcFVVWGxOYlVWMFdUSkdhRTVETURCT2JVVXdURmRGZWsxdFNYUk9lbFpvVG5wQ2JVNHlUbWxhUkVGNVFIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOelUyTnpVeE9USTVOVFU0fDNmNzNkODRiOTliODQyZjRiYWVhMDhkZGU5ODZjYjM3fGEzZGFlMzU1YTliNzQ1Zjc4ODc5NDhhNjU0NGFkODhk&sdata=VUVPeE5CVEV0Ty93OHNPUWowWGpxT2UyaDZNZDNCem51NjhlT0llZTNpRT0%3D&ovuser=6e68e6a6-4d6b-4505-9622-fddaf8cfc755%2Cthaina.rocco%40fcamara.com&OR=Teams-HL&CT=1756861152421&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA4MTUwMDcxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"> link </a>.
@@ -111,13 +111,14 @@ O preenchimento de cada uma dessas tarefas deve estar de acordo com a imagem aba
 
 <img src="c:\Users\thaina.rocco\Downloads\tempo CHG.png">
 
-° **Motivo de Mudança**
+- **Motivo de Mudança**
 <img src="![alt text](motivoMudança.jfif)">
 
  Caso adicione **Nova funcionalidade** neste campo, será necessário vincular um projeto do JIRA para que a funcionalidade. Porém, se o motivo da mudança não se qualifica a esta opção e a outras (corrigir/reparar e mnutenção), uma opção que pode ser marcada é "Atualização".
 
 ## IA Validator 
 O IA Validator é uma ferramenta desenvolvida para automatizar e validar informações das CHGs de forma inteligente, facilitando o dia a dia e reduzindo erros.
- ° Como acessar e instalar?
+ - Como acessar e instalar?
 Confira o manual completo de instalação e uso 
+
 🔗 [Manual IA - GMUD (IA Validator)](https://wikicorp.telefonica.com.br/spaces/AC/pages/677776363/Manual+IA+-+GMUD)
