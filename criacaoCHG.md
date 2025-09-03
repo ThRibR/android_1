@@ -20,8 +20,8 @@ Essa documentação tem como objetivo informar como funciona o processo de cria�
 - Acesse a área "Solicitação de Mudança"
 1. Acesse a área "Solicitação de Mudança" no VivoNow.
 2. Clique em "Todos" > "Mudança" > "Criar novo" > "Modelos" > "Normal", conforme imagens abaixo. Ou acesse a área <a href="https://vivoit.service-now.com/now/nav/ui/classic/params/target/sn_chg_model_ui_landing.do"> Modelos </a> clicando aqui e depois clique em "Normal".
-<img src="c:\Users\thaina.rocco\Pictures\encontrar.png">
-<img src="c:\Users\thaina.rocco\Pictures\encontrar2.png">
+<img scr="c:\Users\thaina.rocco\Pictures\encontrar.png">
+<img scr="c:\Users\thaina.rocco\Pictures\encontrar2.png">
 
 - Preencha os campos obrigatórios
  <img src="c:\Users\thaina.rocco\Pictures\arrumado.png">
@@ -122,3 +122,4 @@ O IA Validator é uma ferramenta desenvolvida para automatizar e validar informa
 Confira o manual completo de instalação e uso 
 
 🔗 [Manual IA - GMUD (IA Validator)](https://wikicorp.telefonica.com.br/spaces/AC/pages/677776363/Manual+IA+-+GMUD)
+
